@@ -6,7 +6,8 @@
 int main()
 {
     std::cout << "satoupoteto\n";
-    std::cout << "satoupoteto\n";
+    std::cout << "koara\n";
+    
 
 
 }
